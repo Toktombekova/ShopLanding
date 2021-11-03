@@ -1,0 +1,30 @@
+.people_parts{
+    display: flex;
+    margin-top: 5%;
+}
+.people_right{
+    width: 30%;
+    margin-right: 8%;
+}
+.people_person{
+    width: 100%;
+    height:100%;
+}
+.person_websites{
+    display: flex;
+    
+}
+.person_links{
+    list-style: none;
+    margin-right: 2%;
+}
+.person_links>a{
+    text-decoration: none;
+    color: black;
+}
+.people_left{
+    width:60%;
+}
+.persons{
+    width: 97%;
+}

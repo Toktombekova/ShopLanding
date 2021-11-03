@@ -1,0 +1,30 @@
+.our_organaisation{
+    display: flex;
+    margin-top: 8%;
+   justify-content: space-around;
+   align-items: center;
+   padding-bottom: 20%;
+}
+.content_right{
+    width: 40%;
+    margin-right: 8%;
+}
+.content_left{
+    width:52%;
+    height: 100%;
+}
+.content_video{
+    width: 100%;
+    box-shadow: 0 0 5px 5px rgba(0,0,0.2,0.2);
+}
+.content_title{
+    font-size: 50px;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+.content_button{
+    padding: 13px 30px;
+    background-color: red;
+    color: white;
+    border: 1px solid red;
+}

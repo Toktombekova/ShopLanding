@@ -1,0 +1,14 @@
+.product_content{
+    text-align: center;
+    margin-top: 9%;
+}
+.product_hr{
+    width:10%;
+    padding: 2px;
+    background-color: red;
+    margin-top: 3%;
+}
+.product_text{
+ margin: 0 auto;
+ width:30%;
+}

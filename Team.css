@@ -1,0 +1,13 @@
+
+.team_title{
+    margin-top: 10%;
+    text-transform: uppercase;
+}
+.team_text{
+    width: 35%;
+}
+.line{
+    padding: 1.5px ;
+    background-color: red;
+    width: 15%;
+}

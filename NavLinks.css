@@ -1,0 +1,17 @@
+.header_navbar{
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+}
+.header_links{
+    padding: 30px ;
+    color: white;
+    list-style: none;
+}
+.header_links:hover{
+    background-color: red;
+}
+.header_links > a{
+text-decoration: none;
+color: white;
+}

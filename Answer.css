@@ -1,0 +1,28 @@
+.answer_parts{
+display: flex;
+justify-content: space-evenly;
+margin-top: 7%;
+
+}
+.answer_right{
+width: 40%;
+margin-right: 10%;
+}
+.answer_left{
+width: 50%;
+margin-top: 2%;
+}
+.settings{
+    width:10%;
+    height:10%;
+}
+.answer_button{
+    padding: 13px 30px;
+    border:1px solid red;
+    background-color: white;
+    color: red;
+    margin-top: 5% ;
+}
+.answer_hr{
+    margin-top: 12%;
+}
